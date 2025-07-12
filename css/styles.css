@@ -30,6 +30,7 @@
   h1, h2, h3, p {
     text-align: center;
     background-color: rgba(85,85,85,0.2);
+    max-width: 98vw;
   }
 
   ul {
