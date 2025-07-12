@@ -6,8 +6,11 @@
     margin: 0;
     padding-left: 10px;
     font-family: system-ui, sans-serif;
-    color: black;
-    background-color: white;
+    background-image: url(../cocktails.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
   }
   
   nav {
